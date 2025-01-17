@@ -20,4 +20,6 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HanGloss&theme=dark&locale=ko&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
+<p align="left">
+<a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=HanGloss&theme=dark&locale=ko&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /> </a>
+</p>
