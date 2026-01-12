@@ -30,7 +30,5 @@
 <summary>
   <h3 align="left">📊 My Github Stats</h3> 
 </summary>
-  <p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HanGloss&theme=dark&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
-  </p>
+
 </details>
