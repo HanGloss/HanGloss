@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/yt_han0331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yt_han0331" height="30" width="40" /></a>
-<a href="https://mail.google.com" target="blank"><img src="https://img.shields.io/badge/Gmail-#EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Gmail-#EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </p>
 
 <details>
